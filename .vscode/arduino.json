@@ -1,0 +1,6 @@
+{
+    "sketch": "powermeter.ino",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:mini",
+    "configuration": "cpu=atmega328"
+}
